@@ -1,13 +1,14 @@
 ---
-title: I Found that Lemurs Do Funny Dances
+title: Predict Next Months Weather
 authors:
-- sally_smarts
-- wesley_wisdom
+- kunle_giwa
+- jon_snow
 tags:
-- knowledge
-- example
-created_at: 2016-06-29 00:00:00
-updated_at: 2017-11-08 22:20:04.888432
+- weather
+- taxi
+- randoms
+created_at: 2017-11-08 00:00:00
+updated_at: 2017-11-09 00:00:00
 tldr: This is short description of the content and findings of the post.
 thumbnail: images/output_55_1.png
 ---
